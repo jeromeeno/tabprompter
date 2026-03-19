@@ -10,6 +10,19 @@ I made TabPrompter as a Chrome Extension to do that work for me, so I can spend 
 
 ---
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Color Themes](#color-themes)
+- [Keyboard Shortcuts](#keyboard-shortcuts)
+- [Notes](#notes)
+- [License](#license)
+- [Support](#support)
+
+---
+
 ### Installation
 
 Latest release download: [TabPrompter v0.1.0](https://github.com/jeromeeno/tabprompter/releases/tag/v0.1.0)
