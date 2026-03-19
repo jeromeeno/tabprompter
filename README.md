@@ -54,6 +54,10 @@ TabPrompter activates automatically on supported Ultimate Guitar search and tab 
 
 ![Paint It Black - Guitar Chords](assets/screenshots/tc-PiB-guitarchords.png)
 
+#### Guitar Chords with Chord Shapes
+
+![Paint It Black - Guitar Chords with Chord Shapes](assets/screenshots/tc-PiB-withchordshapes.png)
+
 #### Guitar Tabs
 
 ![Paint It Black - Guitar Tabs](assets/screenshots/tc-PiB-guitartabs.png)
