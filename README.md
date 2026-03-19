@@ -27,6 +27,8 @@ I made TabPrompter as a Chrome Extension to do that work for me, so I can spend 
 
 Latest release download: [TabPrompter v0.1.0](https://github.com/jeromeeno/tabprompter/releases/tag/v0.1.0)
 
+TabPrompter activates automatically on supported Ultimate Guitar search and tab pages.
+
 1. Download or clone this repository.
 2. Open `chrome://extensions` in Chrome.
 3. Turn on `Developer mode`.
@@ -117,6 +119,7 @@ Latest release download: [TabPrompter v0.1.0](https://github.com/jeromeeno/tabpr
 
 - TabPrompter is tuned for current Ultimate Guitar page structure and may need updates if the site changes.
 - Chord-shape diagrams are currently for standard guitar chord pages only.
+- TabPrompter is an independent project and is not affiliated with or endorsed by Ultimate Guitar.
 
 ---
 
