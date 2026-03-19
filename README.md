@@ -63,6 +63,32 @@ Latest release download: [TabPrompter v0.1.0](https://github.com/jeromeeno/tabpr
 
 ![Info and settings](assets/screenshots/tc-InfoSettings-cropped.png)
 
+### Color Themes
+
+#### Terracotta
+
+| Dark | Light |
+| --- | --- |
+| ![Terracotta dark](assets/screenshots/tc-colors-terracotta-dark.png) | ![Terracotta light](assets/screenshots/tc-colors-terracotta-light.png) |
+
+#### Citrus Night
+
+| Dark | Light |
+| --- | --- |
+| ![Citrus Night dark](assets/screenshots/tc-colors-citrusnight-dark.png) | ![Citrus Night light](assets/screenshots/tc-colors-citrusnight-light.png) |
+
+#### Soft Bloom
+
+| Dark | Light |
+| --- | --- |
+| ![Soft Bloom dark](assets/screenshots/tc-colors-softbloom-dark.png) | ![Soft Bloom light](assets/screenshots/tc-colors-softbloom-light.png) |
+
+#### Blue Hush
+
+| Dark | Light |
+| --- | --- |
+| ![Blue Hush dark](assets/screenshots/tc-colors-bluehush-dark.png) | ![Blue Hush light](assets/screenshots/tc-colors-bluehush-light.png) |
+
 #### Keyboard Shortcuts
 
 - `T` toggle TabPrompter
