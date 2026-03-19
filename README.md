@@ -12,6 +12,8 @@ I made TabPrompter as a Chrome Extension to do that work for me, so I can spend 
 
 ### Installation
 
+Latest release download: [TabPrompter v0.1.0](https://github.com/jeromeeno/tabprompter/releases/tag/v0.1.0)
+
 1. Download or clone this repository.
 2. Open `chrome://extensions` in Chrome.
 3. Turn on `Developer mode`.
@@ -30,6 +32,36 @@ I made TabPrompter as a Chrome Extension to do that work for me, so I can spend 
 - Includes one-click search handoff from a song page.
 - Supports transpose, text resizing, refit, theme switching, and saved preferences.
 - Shows chord-shape diagrams on standard guitar chord pages.
+
+### Screenshots
+
+#### Guitar Chords
+
+![Paint It Black - Guitar Chords](assets/screenshots/tc-PiB-guitarchords.png)
+
+#### Guitar Tabs
+
+![Paint It Black - Guitar Tabs](assets/screenshots/tc-PiB-guitartabs.png)
+
+#### Ukulele
+
+![Paint It Black - Ukulele](assets/screenshots/tc-PiB-ukulele.png)
+
+#### Bass
+
+![Paint It Black - Bass](assets/screenshots/tc-PiB-bass.png)
+
+#### Drums
+
+![Paint It Black - Drums](assets/screenshots/tc-PiB-drums.png)
+
+#### Search
+
+![Filtered search](assets/screenshots/tc-Search.png)
+
+#### Info & Settings
+
+![Info and settings](assets/screenshots/tc-InfoSettings-cropped.png)
 
 #### Keyboard Shortcuts
 
